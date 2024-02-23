@@ -10,5 +10,5 @@ helm:
     value: ninesun0318/backend
     forcestring: true
   - name: backend.tag
-    value: main-0df9f37
+    value: main-275bab2
     forcestring: true
