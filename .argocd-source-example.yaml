@@ -4,11 +4,11 @@ helm:
     value: ninesun0318/frontend
     forcestring: true
   - name: frontend.tag
-    value: main-7613b71
+    value: main-0df9f37
     forcestring: true
   - name: backend.image
     value: ninesun0318/backend
     forcestring: true
   - name: backend.tag
-    value: main-7613b71
+    value: main-0df9f37
     forcestring: true
